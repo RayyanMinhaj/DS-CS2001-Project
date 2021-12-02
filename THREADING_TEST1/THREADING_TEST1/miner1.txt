@@ -1,0 +1,2 @@
+MINER 1 ***MESSAGE*** 34537618 microseconds
+MINER 1 ***MESSAGE*** 8919510 microseconds
